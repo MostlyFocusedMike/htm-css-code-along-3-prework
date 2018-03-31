@@ -37,3 +37,8 @@ figcaptions {
 #logo h2 {
   font-family: "Elsie Swah Caps", cursive;
 }
+
+#details a:link {
+  color: black;
+  
+}
