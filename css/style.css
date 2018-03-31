@@ -16,11 +16,7 @@ p {
 }
 
 figcaptions {
-  font-weight: normal;
-  font-size: .75rem;
-  line-height: 1.5rem;
-  font-family:  , "Times New Roman", serif;
-  font: normal .75rem/1.5rem "Georgia", "Times New Roman", serif;
+  font: normal .75rem/1.5rem "Elsie Swah Caps", cursive, "Times New Roman", serif;
   color: #777;
   text-align: right;
 }
